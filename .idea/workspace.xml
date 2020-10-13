@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8727f772-3bd6-4735-b870-a534c913902a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="04cb80da-bd3b-426f-bbb0-76266e947a74" />
+  <component name="ProjectId" id="1hwHVRWwZC4IBWi6CTmWx6acrpK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/createQuakes.py" />
+  </component>
+  <component name="RunManager" selected="Python.Data">
+    <configuration name="CreateQuakes" type="PythonConfigurationType" factoryName="Python">
+      <module name="DMProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/createQuakes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Data" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DMProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PlotMap" type="PythonConfigurationType" factoryName="Python">
+      <module name="DMProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Plot Map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Data" />
+      <item itemvalue="Python.PlotMap" />
+      <item itemvalue="Python.CreateQuakes" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8727f772-3bd6-4735-b870-a534c913902a" name="Default Changelist" comment="" />
+      <created>1600915258089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600915258089</updated>
+      <workItem from="1600915259582" duration="4129000" />
+      <workItem from="1601326206771" duration="652000" />
+      <workItem from="1601578914713" duration="8000" />
+      <workItem from="1601587460952" duration="11232000" />
+      <workItem from="1602102470722" duration="44000" />
+      <workItem from="1602105938187" duration="6066000" />
+      <workItem from="1602189615168" duration="9551000" />
+      <workItem from="1602625245199" duration="1342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602113279814">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="282" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1602113279814" />
+    <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602113342522">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.872@0.0.1368.872" timestamp="1602113342522" />
+    <state x="608" y="194" key="FileChooserDialogImpl" timestamp="1602113278408">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="608" y="194" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1602113278408" />
+    <state width="1326" height="226" key="GridCell.Tab.0.bottom" timestamp="1602625673986">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="226" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1602625673986" />
+    <state width="1326" height="226" key="GridCell.Tab.0.center" timestamp="1602625673985">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="226" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1602625673985" />
+    <state width="1326" height="226" key="GridCell.Tab.0.left" timestamp="1602625673984">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="226" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1602625673984" />
+    <state width="1326" height="226" key="GridCell.Tab.0.right" timestamp="1602625673985">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="226" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1602625673985" />
+    <state width="1326" height="256" key="GridCell.Tab.1.bottom" timestamp="1602210125297">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="256" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1602210125297" />
+    <state width="1326" height="256" key="GridCell.Tab.1.center" timestamp="1602210125296">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="256" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1602210125296" />
+    <state width="1326" height="256" key="GridCell.Tab.1.left" timestamp="1602210125295">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="256" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1602210125295" />
+    <state width="1326" height="256" key="GridCell.Tab.1.right" timestamp="1602210125296">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="256" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1602210125296" />
+    <state x="93" y="93" width="1181" height="685" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602193138689">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="93" y="93" width="1181" height="685" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1368.872@0.0.1368.872" timestamp="1602193138689" />
+    <state x="380" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1602189608009">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="260" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1602189608009" />
+    <state x="719" y="170" width="613" height="536" key="find.popup" timestamp="1600915963899">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="719" y="170" width="613" height="536" key="find.popup/0.0.1368.872@0.0.1368.872" timestamp="1600915963899" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1602112614518">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1602112614518" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Plot Map.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python/Lib/site-packages/openeew/data/aws.py</url>
+          <line>279</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DMProject$CreateQuakes.coverage" NAME="CreateQuakes Coverage Results" MODIFIED="1602113320830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DMProject$PlotMap.coverage" NAME="PlotMap Coverage Results" MODIFIED="1602115212502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DMProject$Data.coverage" NAME="Data Coverage Results" MODIFIED="1602625673975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
