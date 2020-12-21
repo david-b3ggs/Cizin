@@ -6,7 +6,7 @@ import folium
 
 data_client = AwsDataClient('mx')
 
-df = pd.read_csv("./quakeList.csv")
+df = pd.read_csv("quakesList.csv")
 
 eq = []
 for x in df.index:
