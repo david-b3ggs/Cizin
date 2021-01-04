@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8727f772-3bd6-4735-b870-a534c913902a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataManage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EarlyWarning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrintSeismograph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simulations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extractData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/saved_model.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/variables/variables.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/variables/variables.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_quake2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_quake3.jsonl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plot Map.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plot Map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QUAKES.html" beforeDir="false" afterPath="$PROJECT_DIR$/QUAKES.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/createQuakes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quakeList.csv" beforeDir="false" />
-    </list>
+    <list default="true" id="8727f772-3bd6-4735-b870-a534c913902a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Research/Gaussian_Python_Parser" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -205,6 +185,7 @@
       <workItem from="1603759086844" duration="9000" />
       <workItem from="1604021824701" duration="966000" />
       <workItem from="1606689135468" duration="66400000" />
+      <workItem from="1608580111020" duration="234000" />
     </task>
     <servers />
   </component>
@@ -224,10 +205,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.872@0.0.1368.872" timestamp="1607109914537" />
-    <state x="608" y="194" key="FileChooserDialogImpl" timestamp="1607111624323">
+    <state x="608" y="194" key="FileChooserDialogImpl" timestamp="1608580354963">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="608" y="194" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1607111624323" />
+    <state x="608" y="194" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1608580354963" />
     <state width="1326" height="256" key="GridCell.Tab.0.bottom" timestamp="1607112805519">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
